@@ -13,7 +13,7 @@ This repository showcases my data analysis projects, demonstrating my skills in 
 
 ## Projects:
 
-* 1. [Airbnb Listing 2016](Airbnb-Listings-2016-Dataset)*
+### 1. [Airbnb Listing 2016](Airbnb-Listings-2016-Dataset)
 
 * **Goal:** To explore the dataset, extract key insights, and present them in an interactive and visually appealing manner using Tableau.
 * **Dataset:** Includes various features such as listing prices, locations, property types, and other relevant information.
@@ -23,7 +23,7 @@ This repository showcases my data analysis projects, demonstrating my skills in 
     * Analyzed Geographical distribution, Pricing strategies, and Revenue per year through dynamic visualizations
     * Created visually compelling Charts and Maps to highlight significant market trends and property characteristics 
 
-* 2. [Web Scrapping Data from Wikipedia](Web-Scrapping-Data-from-Wikipedia/Web-Scrapping-Data-from-Wikipedia-main)*
+### 2. [Web Scrapping Data from Wikipedia](Web-Scrapping-Data-from-Wikipedia/Web-Scrapping-Data-from-Wikipedia-main)
 
 * **Goal:** To extract and analyze information about the top companies based on their revenue.
 * **Dataset:** Includes list of various top companies based on their revenue and other relevant information.
@@ -33,7 +33,7 @@ This repository showcases my data analysis projects, demonstrating my skills in 
     * Cleaned and structured extracted data using Pandas for accurate analysis and insights.
     * Converted the dataframe into a CSV file for further data-driven decision-making. 
  
-* 3. [Data Professional Survey Analysis](Data-Professional-Survey-Analysis-Using-Power-BI/Data-Professional-Survey-Analysis-Using-Power-BI-main)*
+### 3. [Data Professional Survey Analysis](Data-Professional-Survey-Analysis-Using-Power-BI/Data-Professional-Survey-Analysis-Using-Power-BI-main)
 
 * **Goal:** To clean and analyze a survey dataset related to data professionals using Power BI.
 * **Dataset:** Includes responses from individuals in the data field, providing insights into their career paths, job satisfaction, and other professional metrics.
@@ -44,7 +44,7 @@ This repository showcases my data analysis projects, demonstrating my skills in 
     * Developed Dashboard for data visualization to breakdown the survey 
 
 
-* 4. [Crypto Website Automation with CoinMarketCap API](Automating-Crypto-Website-API/Automating-Crypto-Website-API-main)*
+### 4. [Crypto Website Automation with CoinMarketCap API](Automating-Crypto-Website-API/Automating-Crypto-Website-API-main)
 
 * **Goal:** To fetches real-time data on the top 15 cryptocurrencies, processes it using Pandas, and visualizes trends with Seaborn and Matplotlib.
 * **Dataset:** Includes various crytopcurrencies.
@@ -54,7 +54,7 @@ This repository showcases my data analysis projects, demonstrating my skills in 
     * Cleaned and analyzed data with Pandas
     * Visualized trends using Seaborn and Matplotlib 
 
-* 5. [Employees Layoffs Analysis](Employees-Layoffs-2023-Dataset-Analysis-Using-MySQL/Employees-Layoffs-2023-Dataset-Analysis-Using-MySQL-main)*
+### 5. [Employees Layoffs Analysis](Employees-Layoffs-2023-Dataset-Analysis-Using-MySQL/Employees-Layoffs-2023-Dataset-Analysis-Using-MySQL-main)
 
 * **Goal:** To explore the dataset, clean the data and exploratory data analysis (EDA) on the dataset.
 * **Dataset:** Includes information on employee layoffs from all around the world that occurred till 2023.
